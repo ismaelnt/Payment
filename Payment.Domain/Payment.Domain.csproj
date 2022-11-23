@@ -10,8 +10,4 @@
       <ProjectReference Include="..\Payment.Shared\Payment.Shared.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Models" />
-    </ItemGroup>
-
 </Project>
